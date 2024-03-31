@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ishuwara-avarjana-a83872253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishuwara-avarjana" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ishuwara._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishuwara._" height="30" width="40" /></a>
 
-<h4 align="left"">Stack:</h4>
+<h4 align="left"">Languages:</h4>
 <div style="display: inline;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
