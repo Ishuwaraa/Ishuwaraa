@@ -34,15 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div><br/>
 
-
-<div style="clear:both;">
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishuwaraa&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="ishuwaraa" />
-  </p>
-  <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishuwaraa&theme=dark&hide_border=true" alt="ishuwaraa" />
-  </p>
-</div>
-
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ishuwaraa&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishuwaraa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=ishuwaraa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
   
